@@ -1,0 +1,19 @@
+# Ignore Terraform state and cache files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore variable files with secrets
+terraform.tfvars
+
+# Ignore crash logs
+crash.log
+
+# Ignore any override files
+*.tfvars
+*.tfstate
+*.backup
+
+# Ignore all provider binaries
+*.exe
