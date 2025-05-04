@@ -16,3 +16,5 @@ To set up the project, clone the repository and follow the steps below:
 1. **Initialize Terraform**:
    ```bash
    terraform init
+images 
+https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20155614.png
