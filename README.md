@@ -19,5 +19,5 @@ To set up the project, clone the repository and follow the steps below:
 images 
 https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20155614.png
 https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20165404.png
-
+https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20164503.png
 
