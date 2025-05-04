@@ -21,3 +21,4 @@ https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-
 https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20165404.png
 https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20164503.png
 https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20162006.png
+https://github.com/Vcthriee/basic-cloud-infra-setup/blob/main/Screenshot%202025-04-30%20161122.png
